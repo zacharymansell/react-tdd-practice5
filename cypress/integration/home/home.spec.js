@@ -11,6 +11,8 @@ As a Chef, I want to be able to see a recipe that I have added show up under "My
 
 Given I have clicked the add recipe button, When I enter the details of a recipe in the form And I click the submit button Then I should see that recipe's name in the list under a heading that reads "My Recipes".
 
+"As a chef, I want to be able to see multiple recipes' names appear as a list after adding them in the form".
+
 */
 
 describe("Home page", () => {
